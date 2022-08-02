@@ -45,7 +45,7 @@ Olá, sou a Thayssa, estudante de Desenvolvimento Fullstack na Let's Code e Fron
   <div> 
  
   <a href = "mailto:thayssa.souzaf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/thayssa-souza//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thayssa-souza//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <!--[Snake animation](https://github.com/thayssa-souza/thayssa-souza/blob/output/github-contribution-grid-snake.svg)
  
